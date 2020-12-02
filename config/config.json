@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "techverx",
+    "password": "techverx123",
+    "database": "techverx_sequelize",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "root",
+    "password": "techverx123",
+    "database": "techverx_sequelize",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "root",
+    "password": "techverx123",
+    "database": "techverx_sequelize",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  }
+}
